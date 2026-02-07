@@ -312,5 +312,3 @@ MIT License - see LICENSE file for details
 - **Vite** for fast development experience
 
 ---
-
-**Built with ❤️ for the modern web**
